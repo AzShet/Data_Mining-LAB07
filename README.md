@@ -35,3 +35,16 @@ Estas pruebas aseguran la robustez y confiabilidad del código principal ubicado
 
 ## 📁 Estructura de Archivos
 
+├── main_module.py # Funciones principales
+├── test_data.py # Pruebas con pytest
+├── LAB07-RUELAS.ipynb # Desarrollo del laboratorio en notebook
+├── README.md # Documentación del proyecto
+
+
+## ✍️ Autor
+
+César Diego Ruelas Flores – [cesar.ruelas@tecsup.edu.pe](mailto:cesar.ruelas@tecsup.edu.pe)
+
+---
+
+¡Gracias por revisar este repositorio! 💻
