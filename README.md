@@ -34,12 +34,12 @@ Estas pruebas aseguran la robustez y confiabilidad del código principal ubicado
 - pytest
 
 ## 📁 Estructura de Archivos
-
+```
 ├── main_module.py # Funciones principales
 ├── test_data.py # Pruebas con pytest
 ├── LAB07-RUELAS.ipynb # Desarrollo del laboratorio en notebook
 ├── README.md # Documentación del proyecto
-
+```
 
 ## ✍️ Autor
 
