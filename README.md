@@ -1,5 +1,6 @@
 # Data_Mining-LAB07
-Este lab si me costó un buen par de horas hacerlo correcto, espero les sirva a cualquiera que vea este repositorio y adquiera conocimiento. Un saludo.
+Este lab si me costó un buen par de horas hacerlo correcto, lo que busco al compartirlo es que sirva como un recurso valioso para aquellos interesados en aprender sobre minería de datos, preprocesamiento, evaluación de predictibilidad y modelado de clasificación binaria. 👻
+
 
 # Análisis Predictivo de Cáncer de Mama – LAB07
 
