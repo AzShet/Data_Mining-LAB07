@@ -28,7 +28,7 @@ Estas pruebas aseguran la robustez y confiabilidad del código principal ubicado
 
 ## 🛠️ Tecnologías Utilizadas
 
-- Python 3.13.3
+- Python 3.13.3 (Obviamente tenía que ser la última versión, sino next 👻👻👻👻👻👻)
 - pandas
 - scikit-learn
 - numpy
